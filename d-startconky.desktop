@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=StartConky
+Comment=Start Conky Config
+Icon=conky
+Exec=~/.config/conky/d-startconky.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-Delay=20
